@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCAF, The Hackett Group, Launches Site"
+title: "PyCAF Site Launch"
 date: 2020-07-20
 ---
 
